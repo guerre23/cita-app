@@ -1,4 +1,4 @@
-import React,{useState, useEffect} from "react";
+import React from "react";
 
 const Quote = ({setNumberRandom, setColor, numberRandom, quotes, color})=>{
 
